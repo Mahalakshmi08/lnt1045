@@ -1,0 +1,3 @@
+Today is Tuesday
+Date is 9th
+Month is August
