@@ -2,3 +2,4 @@ Today is Tuesday
 Date is 9th
 Month is August
 8th month of the year
+We are learning GIT
