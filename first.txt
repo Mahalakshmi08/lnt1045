@@ -5,3 +5,4 @@ Month is August
 We are learning GIT
 Tmrw we have communication training
 At 9pm, Tmrw we have cst
+An apple a day, keeps the doctor away
